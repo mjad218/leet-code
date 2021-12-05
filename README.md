@@ -8,4 +8,4 @@ visit my profile [@mjad218](https://leetcode.com/mjad218/)
 
 | Problem | Description | View on LeetCode | My Solution | 
 
-| Problem | Description | View on LeetCode | My Solution | 
+| --- | --- | --- | --- | 
