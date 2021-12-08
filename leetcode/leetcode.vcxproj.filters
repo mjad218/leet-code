@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="problems\two-sum.cpp">
+    <ClCompile Include="problems\numbers-disappeared-in-array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
