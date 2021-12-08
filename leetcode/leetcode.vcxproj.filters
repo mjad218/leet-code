@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="problems\numbers-disappeared-in-array.cpp">
+    <ClCompile Include="problems\medium\Daily Temperature\daily-temperatures.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
