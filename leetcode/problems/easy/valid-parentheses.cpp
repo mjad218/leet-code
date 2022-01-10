@@ -1,3 +1,6 @@
+#include <stack>
+#include <string>
+using namespace std; 
 class Solution {
 public:
     bool isMatching(char& parenthesis, stack<char>& parentheses) {
