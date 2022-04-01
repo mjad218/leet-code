@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="problems\medium\Daily Temperature\daily-temperatures.cpp" />
+    <ClCompile Include="problems\easy\remove-duplicates-array\remove-duplicates-from-sorted-array.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="problems\medium\Daily Temperature\daily-temperatures.cpp">
+    <ClCompile Include="problems\easy\remove-duplicates-array\remove-duplicates-from-sorted-array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
